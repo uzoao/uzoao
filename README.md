@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uzoao
+- 👋 Hi, I’m Uzo
 - 👀 I’m interested in music, food and documentaries
 - 🌱 I’m currently learning python and javascript
 - 💞️ I’m looking to collaborate on projects
